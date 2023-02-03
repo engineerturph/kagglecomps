@@ -5,4 +5,4 @@ Comps i made:
 
 - Connect X
 - Digit recognizer
--
+- Disaster tweet recognition with NLP
